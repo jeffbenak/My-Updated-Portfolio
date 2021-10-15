@@ -8,6 +8,7 @@
 
 ## Usage 
 - Click the deployed link below and start clicking on links of the images in the work section, each one leads to a different project I have worked on.
+- Below that are links to my email, github, linkedin, and my resume where you can check these out too. 
 
 ## Screenshots
 ![Screenshot (121)](https://user-images.githubusercontent.com/87049684/137548244-d0c3eab2-9f2b-459e-b8a7-fa7e772f110f.png)
