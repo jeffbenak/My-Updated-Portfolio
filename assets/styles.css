@@ -58,6 +58,7 @@ ol, ul {
     align-items: center;
     color: rgb(7, 47, 66);
     clear: both;
+    padding-left: 45px;
   }
 
   .footer div {
@@ -177,7 +178,6 @@ img {
   right: -51px;
   width: 950px;
   height: 480px;
-  opacity: 0.5;
 
 }
 
@@ -187,7 +187,7 @@ img {
   right: 753px;
   height: 170px;
   width: 460px;
-  opacity: 0.5;
+  /* opacity: 0.5; */
 }
 
 .react {
@@ -196,7 +196,7 @@ img {
   right: 260px;
   height: 170px;
   width: 460px;
-  opacity: 0.5;
+  /* opacity: 0.5; */
 }
 
 .javascript {
@@ -205,7 +205,7 @@ img {
   right: 753px;
   height: 170px;
   width: 460px;
-  opacity: 0.5;
+  /* opacity: 0.5; */
 }
 
 .web {
@@ -214,7 +214,7 @@ img {
   right: 260px;
   height: 170px;
   width: 460px;
-  opacity: 0.5;
+  /* opacity: 0.5; */
 }
 
 .textposition {
@@ -228,7 +228,7 @@ img {
 
 .textposition1 {
   position: absolute;
-  bottom: 260px;
+  bottom: 230px;
   left: 53px;
   font-size: 30px;
   background-color: #a6ade7;
